@@ -51,12 +51,7 @@
 >* 사용 기술 : Retrofit, Glide
 >* 담당 업무 : 신규 앱 개발, 운영
 
-<img src="images/mr_lao/lao00.png" width="150"/>    
-<img src="images/mr_lao/lao01.png" width="150"/>  
-<img src="images/mr_lao/lao02.png" width="150"/>  
-<img src="images/mr_lao/lao03.png" width="150"/>  
-<img src="images/mr_lao/lao04.png" width="150"/>  
-<img src="images/mr_lao/lao05.png" width="150"/>  
+<img src="images/mr_lao/lao00.png" width="150"/> <img src="images/mr_lao/lao01.png" width="150"/> <img src="images/mr_lao/lao02.png" width="150"/> <img src="images/mr_lao/lao03.png" width="150"/> <img src="images/mr_lao/lao04.png" width="150"/> <img src="images/mr_lao/lao05.png" width="150"/>  
 
 >라스트오더 점포용 ([일반점포](https://play.google.com/store/apps/details?id=kr.co.lastorder.store), [K7](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.se), [CU](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.cu))
 >* 마감 할인 서비스 점포용 앱
@@ -65,13 +60,7 @@
 >* 사용 기술 : Retrofit, Glide, Room, Zxing, MQTT
 >* 담당 업무 : 신규 앱 개발, 운영
 
-<img src="images/mr_laos/laos00.png" width="150"/>    
-<img src="images/mr_laos/laos01.png" width="150"/>    
-<img src="images/mr_laos/laos02.png" width="150"/>    
-<img src="images/mr_laos/laos03.png" width="150"/>    
-<img src="images/mr_laos/laos04.png" width="150"/>    
-<img src="images/mr_laos/laos05.png" width="150"/>    
-<img src="images/mr_laos/laos06.png" width="150"/>    
+<img src="images/mr_laos/laos00.png" width="150"/> <img src="images/mr_laos/laos01.png" width="150"/> <img src="images/mr_laos/laos02.png" width="150"/> <img src="images/mr_laos/laos03.png" width="150"/> <img src="images/mr_laos/laos04.png" width="150"/> <img src="images/mr_laos/laos05.png" width="150"/> <img src="images/mr_laos/laos06.png" width="150"/>    
 
 >[패시키](https://play.google.com/store/apps/details?id=com.rowem.passikey.app)
 >* 보안 로그인 솔루션
