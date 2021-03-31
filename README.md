@@ -40,7 +40,7 @@
 ---
 
 ## 회사 프로젝트
->패시키
+>[패시키](https://play.google.com/store/apps/details?id=com.rowem.passikey.app)
 >* 보안 로그인 솔루션
 >* 개발 기간 : 2019.02 ~ 2019.08
 >* 개발 환경 : Kotlin, Android Studio, Gitlab
