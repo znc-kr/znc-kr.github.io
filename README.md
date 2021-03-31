@@ -50,6 +50,7 @@
 >* 개발 환경 : Kotlin, Android Studio, Github
 >* 사용 기술 : Retrofit, Glide
 >* 담당 업무 : 신규 앱 개발, 운영
+>* Hybrid, 로그인, 장바구니, 결제 기능 등 개발, 운영
 
 <img src="images/mr_lao/lao00.jpg" width="150"/> <img src="images/mr_lao/lao01.jpg" width="150"/> <img src="images/mr_lao/lao02.jpg" width="150"/> <img src="images/mr_lao/lao03.jpg" width="150"/> <img src="images/mr_lao/lao04.jpg" width="150"/> <img src="images/mr_lao/lao05.jpg" width="150"/>  
 
