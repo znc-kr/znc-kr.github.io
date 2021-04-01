@@ -50,7 +50,7 @@
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- 사용 기술 : Retrofit, Glide
 >- 담당 업무 : 신규 앱 개발, 운영
->  - 회원가입, 로그인, 주문, 결제 등
+>    - 회원가입, 로그인, 주문, 결제 등
 
 <img src="images/mr_lao/lao00.jpg" width="150"/> <img src="images/mr_lao/lao01.jpg" width="150"/> <img src="images/mr_lao/lao02.jpg" width="150"/> <img src="images/mr_lao/lao03.jpg" width="150"/> <img src="images/mr_lao/lao04.jpg" width="150"/> <img src="images/mr_lao/lao05.jpg" width="150"/>  
 
@@ -62,7 +62,7 @@
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- 사용 기술 : Retrofit, Glide, Room, Zxing, MQTT
 >- 담당 업무 : 신규 앱 개발, 운영
->  - 판매 상품관리(등록, 수정), 주문관리(접수, 취소, 완료), 기타 관리(매출, 점포정보 등) 등 
+>    - 판매 상품관리(등록, 수정), 주문관리(접수, 취소, 완료), 기타 관리(매출, 점포정보 등) 등 
 
 <img src="images/mr_laos/laos00.jpg" width="150"/> <img src="images/mr_laos/laos01.jpg" width="150"/> <img src="images/mr_laos/laos02.jpg" width="150"/> <img src="images/mr_laos/laos03.jpg" width="150"/> <img src="images/mr_laos/laos04.jpg" width="150"/> <img src="images/mr_laos/laos05.jpg" width="150"/> <img src="images/mr_laos/laos06.jpg" width="150"/>    
 
@@ -74,7 +74,7 @@
 >- 개발 환경 : Kotlin, Android Studio, Gitlab
 >- 사용 기술 : Retrofit, Glide, Room, Aes-256, SHA-512, Zxing
 >- 담당 업무 : 신규 솔루션 개발
->  - 보안 프로세스, 핀패드, 생체인식 등
+>    - 보안 프로세스, 핀패드, 생체인식 등
 
 <img src="images/ro_psk/psk1.jpg" width="150"/>    <img src="images/ro_psk/psk2.jpg" width="150"/>  <img src="images/ro_psk/psk3.jpg" width="150"/> <img src="images/ro_psk/psk4.jpg" width="150"/> <img src="images/ro_psk/psk5.jpg" width="150"/> <img src="images/ro_psk/psk6.jpg" width="150"/>
 
@@ -86,7 +86,7 @@
 >- 개발 환경 : Java, Android Studio, Gitlab 
 >- 사용 기술 : Retrofit, Glide, Firebase, OAuth(Google, Kakao, WeChat), Tapjoy, Admob
 >- 담당 업무 : 신규 서비스 개발, 유지 보수
->  - OAuth연동, 광고 연동, 인앱 결제
+>    - OAuth연동, 광고 연동, 인앱 결제
 
 <img src="images/ro_sp/rsp1.jpg" width="150"/>    <img src="images/ro_sp/rsp2.jpg" width="150"/>  <img src="images/ro_sp/rsp3.jpg" width="150"/> <img src="images/ro_sp/rsp4.jpg" width="150"/> <img src="images/ro_sp/rsp5.jpg" width="150"/> <img src="images/ro_sp/rsp6.jpg" width="150"/>
 
@@ -98,7 +98,7 @@
 >- 개발 환경 : Java, Android Studio, SVN
 >- 사용 기술 : BLE(Beacon), Volley, SQLite
 >- 담당 업무 : 신규 앱 개발
->  - 비콘 연동, 궤적 데이터 전송 기능 등
+>    - 비콘 연동, 궤적 데이터 전송 기능 등
 
 <img src="images/ek_ons/enos1.jpg" width="150"/>    <img src="images/ek_ons/enos2.jpg" width="150"/>  <img src="images/ek_ons/enos3.jpg" width="150"/> <img src="images/ek_ons/enos4.jpg" width="150"/> <img src="images/ek_ons/enos5.jpg" width="150"/>
 
@@ -110,7 +110,7 @@
 >- 개발 환경 : Java, Android Studio, SVN
 >- 사용 기술 : Java, Github, Volley, BLE(Beacon), 비콘 제조사 SDK 연동
 >- 담당 업무 : 서비스 유지 보수
->  - 비콘 연동
+>    - 비콘 연동
 
 <img src="images/lo_o2o/lbm1.jpg" width="150"/>    <img src="images/lo_o2o/lbm2.jpg" width="150"/>  <img src="images/lo_o2o/lbm3.jpg" width="150"/> <img src="images/lo_o2o/lbm4.jpg" width="150"/>
 
@@ -144,8 +144,8 @@
 
 > 메가찬스 텔레그램 봇
 >- 메가찬스 크롤링 후, 텔레그램 봇을 이용한 전송 
->  - 메가박스 홈페이지의 메가찬스 상품(영화 1+1) - 파이썬 크롤링
->  - 텔레그램 봇을 통해 알림 처리
+>    - 메가박스 홈페이지의 메가찬스 상품(영화 1+1) - 파이썬 크롤링
+>    - 텔레그램 봇을 통해 알림 처리
 >- 개발 기간 : 2019.01 ~ 2019.02
 >- 개발 환경 : Python3, Linux(CentOS 8)
 
@@ -153,8 +153,8 @@
 
 > [노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
 >- 노티 영역에 작성한 메모 노출
->  - 제목, 내용의 간단한 메모를 작성하여 알림 영역에 노출
->  - 작성, 수정, 삭제, 공유, 복원 기능 
+>    - 제목, 내용의 간단한 메모를 작성하여 알림 영역에 노출
+>    - 작성, 수정, 삭제, 공유, 복원 기능 
 >- 개발 기간 : 2019.04 ~ 2019.04
 >- 개발 환경 : Kotlin, Android Studio, Github
 
@@ -164,8 +164,8 @@
 
 > [비번관리](https://play.google.com/store/apps/details?id=kr.znc.app.znpasswordmanager)
 >- 비밀번호 관리 애플리케이션
->  - 사용자 설정한 암호 기반으로 키 생성 (SHA-512)
->  - 데이터 암복호화 (AES-256)
+>    - 사용자 설정한 암호 기반으로 키 생성 (SHA-512)
+>    - 데이터 암복호화 (AES-256)
 >- 개발 기간 : 2017.11 ~ 2017.12
 >- 개발 환경 : Java, Android Studio, Github
 >- 사용 기술 : AES-256, SHA-512, SQLite
