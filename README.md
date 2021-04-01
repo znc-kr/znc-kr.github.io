@@ -2,44 +2,8 @@
 ---
 
 ### 목차
-* [경력](#경력)
 * [회사 프로젝트](#회사-프로젝트)
 * [개인 프로젝트](#개인-프로젝트)
-
----
-
-## 경력
->[미로](https://www.myrocompany.com) (정직원)
->- 2020.03 ~ 현재
->- 안드로이드 애플리케이션 개발 및 유지보수 (마감할인 서비스 사용자/관리)
-
->[로웸](http://www.rowem.com) (정직원)
->- 2018.03 ~ 2019. 08
->- 안드로이드 애플리케이션 개발 및 유지보수 (보안 솔루션, 팬덤 플랫폼)
-
->[이케이시스](http://www.eksys.co.kr) (프리랜서)
->- 2017.04 ~ 2017. 08
->- 안드로이드 애플리케이션 개발 (차량관제)
-
->[인라이플](http://www.enliple.com) (정직원)
->- 2016.02 ~ 2016. 10
->- 안드로이드 애플리케이션 개발 및 유지보수 (광고SDK, 모바일 쇼핑몰)
-
->[로커스데이터](http://www.rowem.com) (정직원)
->- 2015.09 ~ 2015. 12
->- 안드로이드 애플리케이션 개발 (비콘 연동)
-
->프리랜서
->- 2013.11 ~ 2015. 07
->- 안드로이드 애플리케이션 개발 (T멤버십, 식단정보, 보안카드)
-
->[와이즈스톤](http://wisestone.kr) (정직원)
->- 2011.10 ~ 2013. 10
->- 안드로이드 애플리케이션 개발 (신한카드, 중고장터, 모바일 오피스)
-
->FIH Technology Korea (정직원)
->- 2010.04 ~ 2011. 06
->- 안드로이드 애플리케이션 개발 및 포팅 (2.1, 2.2기반)
 
 ---
 
@@ -49,8 +13,10 @@
 >- 개발 기간 : 2020.03 ~ now
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- 사용 기술 : Retrofit, Glide
->- 담당 업무 : 신규 앱 개발, 운영
->    - 회원가입, 로그인, 주문, 결제 등
+>- 담당 업무 : 기존 앱 운영, 신규 앱 개발,운영
+>    - 기존 앱 유지보수
+>    - 신규 앱 개발, 운영
+>        - 회원가입, 로그인, 주문, 결제 등
 
 <img src="images/mr_lao/lao00.jpg" width="150"/> <img src="images/mr_lao/lao01.jpg" width="150"/> <img src="images/mr_lao/lao02.jpg" width="150"/> <img src="images/mr_lao/lao03.jpg" width="150"/> <img src="images/mr_lao/lao04.jpg" width="150"/> <img src="images/mr_lao/lao05.jpg" width="150"/>  
 
@@ -63,6 +29,7 @@
 >- 사용 기술 : Retrofit, Glide, Room, Zxing, MQTT
 >- 담당 업무 : 신규 앱 개발, 운영
 >    - 판매 상품관리(등록, 수정), 주문관리(접수, 취소, 완료), 기타 관리(매출, 점포정보 등) 등 
+>    - 원소스 멀티앱 (productFlavors) 
 
 <img src="images/mr_laos/laos00.jpg" width="150"/> <img src="images/mr_laos/laos01.jpg" width="150"/> <img src="images/mr_laos/laos02.jpg" width="150"/> <img src="images/mr_laos/laos03.jpg" width="150"/> <img src="images/mr_laos/laos04.jpg" width="150"/> <img src="images/mr_laos/laos05.jpg" width="150"/> <img src="images/mr_laos/laos06.jpg" width="150"/>    
 
@@ -85,7 +52,7 @@
 >- 개발 기간 : 2018.03 ~ 2018.08
 >- 개발 환경 : Java, Android Studio, Gitlab 
 >- 사용 기술 : Retrofit, Glide, Firebase, OAuth(Google, Kakao, WeChat), Tapjoy, Admob
->- 담당 업무 : 신규 서비스 개발, 유지 보수
+>- 담당 업무 : 신규 서비스 개발, 운영
 >    - OAuth연동, 광고 연동, 인앱 결제
 
 <img src="images/ro_sp/rsp1.jpg" width="150"/>    <img src="images/ro_sp/rsp2.jpg" width="150"/>  <img src="images/ro_sp/rsp3.jpg" width="150"/> <img src="images/ro_sp/rsp4.jpg" width="150"/> <img src="images/ro_sp/rsp5.jpg" width="150"/> <img src="images/ro_sp/rsp6.jpg" width="150"/>
@@ -142,19 +109,13 @@
 
 <img src="images/z_vt/zvt_00.jpg" width="150"/>    <img src="images/z_vt/zvt_01.jpg" width="150"/>  <img src="images/z_vt/zvt_02.jpg" width="150"/>
 
-> 메가찬스 텔레그램 봇
->- 메가찬스 크롤링 후, 텔레그램 봇을 이용한 전송 
->    - 메가박스 홈페이지의 메가찬스 상품(영화 1+1) - 파이썬 크롤링
->    - 텔레그램 봇을 통해 알림 처리
->- 개발 기간 : 2019.01 ~ 2019.02
->- 개발 환경 : Python3, Linux(CentOS 8)
-
 ---
 
 > [노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
 >- 노티 영역에 작성한 메모 노출
 >    - 제목, 내용의 간단한 메모를 작성하여 알림 영역에 노출
->    - 작성, 수정, 삭제, 공유, 복원 기능 
+>    - 알림 영역에서 수정, 삭제, 공유 기능 지원
+>    - 복원 기능 (폰재부팅, 앱종료 등) 
 >- 개발 기간 : 2019.04 ~ 2019.04
 >- 개발 환경 : Kotlin, Android Studio, Github
 
@@ -164,10 +125,26 @@
 
 > [비번관리](https://play.google.com/store/apps/details?id=kr.znc.app.znpasswordmanager)
 >- 비밀번호 관리 애플리케이션
+>    - 앱에서 직접 연동보다는, 관리의 목적으로 개발
 >    - 사용자 설정한 암호 기반으로 키 생성 (SHA-512)
->    - 데이터 암복호화 (AES-256)
+>    - 대상 데이터 암복호화 (AES-256)
+>    - 비밀번호 임의 생성 기능 (대소문자, 특수문자, 숫자, 자릿수 선택 가능)
+>    - 사용자 암호 변경 가능
+>    - 클립보드 이용한 데이터 백업, 복원
 >- 개발 기간 : 2017.11 ~ 2017.12
 >- 개발 환경 : Java, Android Studio, Github
 >- 사용 기술 : AES-256, SHA-512, SQLite
 
 <img src="images/z_pm/zpm1.jpg" width="150"/>    <img src="images/z_pm/zpm2.jpg" width="150"/>  <img src="images/z_pm/zpm3.jpg" width="150"/> <img src="images/z_pm/zpm4.jpg" width="150"/> <img src="images/z_pm/zpm5.jpg" width="150"/> <img src="images/z_pm/zpm6.jpg" width="150"/>
+
+---
+
+> 메가찬스 텔레그램 봇
+>- 메가박스 특정 상품 업데이트시, 텔레그램으로 메시지 전송
+>    - 메가박스 홈페이지의 메가찬스 상품(영화 1+1) - 파이썬 이용 크롤링
+>    - 텔레그램 봇을 통한 알림 처리
+>- 개발 기간 : 2019.01 ~ 2019.02
+>- 개발 환경 : Python3, Linux(CentOS 8)
+
+---
+
