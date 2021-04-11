@@ -163,5 +163,7 @@
 >- 개발 기간 : 2019.01 ~ 2019.02
 >- 개발 환경 : Python3, Linux(CentOS 8)
 
+<img src="images/mbnoti.jpg" width="150"/>
+
 ---
 
