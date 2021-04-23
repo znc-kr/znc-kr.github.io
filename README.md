@@ -15,14 +15,16 @@
 
 ## 회사 프로젝트
 >[라스트오더](https://play.google.com/store/apps/details?id=com.myro.lastorder)
->- 마감 할인 서비스 사용자 앱
+>- 마감할인 쇼핑몰 사용자 애플리케이션
 >- 개발 기간 : 2020.03 ~ now
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- 사용 기술 : Retrofit, Glide
 >- 담당 업무 : 기존 앱 운영, 신규 앱 개발,운영
 >    - 기존 앱 유지보수 (2020.03 ~ 2020.10)
 >    - 신규 앱 개발, 운영 (2020.08~)
->        - 회원가입, 로그인, 주문, 결제 등
+>        - 하이브리드 
+>        - 회원가입, 로그인, 장바구니, 주문, 결제 페이지 및 기능 개발
+>        - WebView 인터페이스 연동 개발
 >- Google Play : [라스트오더](https://play.google.com/store/apps/details?id=com.myro.lastorder)
 
 <img src="images/mr_lao/lao00.jpg" width="150"/> <img src="images/mr_lao/lao01.jpg" width="150"/> <img src="images/mr_lao/lao02.jpg" width="150"/> <img src="images/mr_lao/lao03.jpg" width="150"/> <img src="images/mr_lao/lao04.jpg" width="150"/> <img src="images/mr_lao/lao05.jpg" width="150"/>  
@@ -30,13 +32,13 @@
 ---
 
 >라스트오더 점포용 ([일반점포](https://play.google.com/store/apps/details?id=kr.co.lastorder.store), [K7](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.se), [CU](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.cu))
->- 마감 할인 서비스 점포용 앱
+>- 마감 할인 쇼핑몰 관리자 애플리케이션
 >- 개발 기간 : 2020.03 ~ now
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- 사용 기술 : Retrofit, Glide, Room, Zxing, MQTT
 >- 담당 업무 : 신규 앱 개발, 운영
 >    - 판매 상품관리(등록, 수정), 주문관리(접수, 취소, 완료), 기타 관리(매출, 점포정보 등) 등 
->    - 원소스 멀티앱 (productFlavors)
+>    - 원소스 멀티앱 (productFlavors 활용, 3개 앱 출시) 
 >- Google Play
 >    - [라스트오더 사장님용](https://play.google.com/store/apps/details?id=kr.co.lastorder.store)
 >    - [라스트오더 K7점포용](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.se)
@@ -47,12 +49,13 @@
 ---
 
 >[패시키](https://play.google.com/store/apps/details?id=com.rowem.passikey.app)
->- 보안 로그인 솔루션
+>- 통합 인증 플랫폼 (보안 로그인)
+>    - 비밀번호 4자리 이용한 서비스 이용(제휴사 연동)
 >- 개발 기간 : 2019.02 ~ 2019.08
 >- 개발 환경 : Kotlin, Android Studio, Gitlab
 >- 사용 기술 : Retrofit, Glide, Room, Aes-256, SHA-512, Zxing
 >- 담당 업무 : 신규 솔루션 개발
->    - 보안 프로세스, 핀패드, 생체인식 등
+>    - 회원가입, 로그인, 핀패드, 제휴사 가입/로그인, 암호화 모듈, 생체 인식 기능 등
 >- Google Play : [패시키](https://play.google.com/store/apps/details?id=com.rowem.passikey.app)
 
 <img src="images/ro_psk/psk1.jpg" width="150"/>    <img src="images/ro_psk/psk2.jpg" width="150"/>  <img src="images/ro_psk/psk3.jpg" width="150"/> <img src="images/ro_psk/psk4.jpg" width="150"/> <img src="images/ro_psk/psk5.jpg" width="150"/> <img src="images/ro_psk/psk6.jpg" width="150"/>
@@ -65,7 +68,7 @@
 >- 개발 환경 : Java, Android Studio, Gitlab 
 >- 사용 기술 : Retrofit, Glide, Firebase, OAuth(Google, Kakao, WeChat), Tapjoy, Admob
 >- 담당 업무 : 신규 서비스 개발, 운영
->    - OAuth연동, 광고 연동, 인앱 결제
+>    - 소셜로그인, 랭킹, 포인트, 광고(애드몹, 탭조이), 인앱 결제 등
 >- Google Play : [스타패스](https://play.google.com/store/apps/details?id=inc.rowem.passicon)
 
 <img src="images/ro_sp/rsp1.jpg" width="150"/>    <img src="images/ro_sp/rsp2.jpg" width="150"/>  <img src="images/ro_sp/rsp3.jpg" width="150"/> <img src="images/ro_sp/rsp4.jpg" width="150"/> <img src="images/ro_sp/rsp5.jpg" width="150"/> <img src="images/ro_sp/rsp6.jpg" width="150"/>
@@ -74,11 +77,12 @@
 
 >[네트워크OnS](https://play.google.com/store/apps/details?id=com.eksys.networkons)
 >- 차량 관제 애플리케이션
+>   - 법인 차량 관제 애플리케이션 (SK오앤에스)
 >- 개발 기간 : 2017.04 ~ 2017.08
 >- 개발 환경 : Java, Android Studio, SVN
 >- 사용 기술 : BLE(Beacon), Volley, SQLite
 >- 담당 업무 : 신규 앱 개발
->    - 비콘 연동, 궤적 데이터 전송 기능 등
+>    - 비콘 연동 (로그인, 배터리), 궤적 데이터 전송, 네비게이션 외 메뉴 기능 개발
 >- Google Play : [네트워크OnS](https://play.google.com/store/apps/details?id=com.eksys.networkons)
 
 <img src="images/ek_ons/enos1.jpg" width="150"/>    <img src="images/ek_ons/enos2.jpg" width="150"/>  <img src="images/ek_ons/enos3.jpg" width="150"/> <img src="images/ek_ons/enos4.jpg" width="150"/> <img src="images/ek_ons/enos5.jpg" width="150"/>
@@ -87,11 +91,13 @@
 
 >비콘 매니저
 >- Locus O2O 관리자 애플리케이션 (비콘 관리 애플리케이션)
+>   - 자사 솔루션에 사용되는 비콘 관리 애플리케이션
+>   - 가상 지역에 비콘 매핑
 >- 개발 기간 : 2015.09 ~ 2015.12
 >- 개발 환경 : Java, Android Studio, SVN
 >- 사용 기술 : Java, Github, Volley, BLE(Beacon), 비콘 제조사 SDK 연동
 >- 담당 업무 : 서비스 유지 보수
->    - 비콘 연동
+>    - 신규 비콘 연동, 서비스 안정화
 
 <img src="images/lo_o2o/lbm1.jpg" width="150"/>    <img src="images/lo_o2o/lbm2.jpg" width="150"/>  <img src="images/lo_o2o/lbm3.jpg" width="150"/> <img src="images/lo_o2o/lbm4.jpg" width="150"/>
 
