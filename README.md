@@ -14,6 +14,25 @@
 ---
 
 ## 회사 프로젝트
+>[롯데온](https://play.google.com/store/apps/details?id=com.lotte),
+[롯데마트몰](https://play.google.com/store/apps/details?id=com.lottemart.shopping),
+[롯데온](https://play.google.com/store/apps/details?id=com.lotte.ellotte),
+[롯데온](https://play.google.com/store/apps/details?id=com.lottemart.toysrus)
+> - 롯데 커머스 앱 운영
+> - 기간 : 2021.06 ~ now
+> - 개발 환경 : Kotlin, Android Studio, Gitlab, Jenkins, Jira, Docker, Slack 등
+> - 사용 기술 : Retrofit, Glide 등
+> - 담당 업무 : 운영, 신규 기능 개발 등
+>    - 메인 구조 리팩토링
+>    - 프리로드 구조 적용
+- Google Play : [롯데온](https://play.google.com/store/apps/details?id=com.lotte),
+[롯데마트몰](https://play.google.com/store/apps/details?id=com.lottemart.shopping),
+[롯데온](https://play.google.com/store/apps/details?id=com.lotte.ellotte),
+[롯데온](https://play.google.com/store/apps/details?id=com.lottemart.toysrus) 
+
+---
+
+
 >[라스트오더](https://play.google.com/store/apps/details?id=com.myro.lastorder)
 >- 마감할인 쇼핑몰 사용자 애플리케이션
 >- 개발 기간 : 2020.03 ~ now
@@ -146,19 +165,19 @@
 ---
 
 > [비번관리](https://play.google.com/store/apps/details?id=kr.znc.app.znpasswordmanager)
->- 비밀번호 관리 애플리케이션
+- 비밀번호 관리 애플리케이션
 >    - 앱에서 직접 연동보다는, 관리의 목적으로 개발
 >    - 사용자 설정한 암호 기반으로 키 생성 (SHA-512)
 >    - 대상 데이터 암복호화 (AES-256)
 >    - 비밀번호 임의 생성 기능 (대소문자, 특수문자, 숫자, 자릿수 선택 가능)
 >    - 사용자 암호 변경 가능
 >    - 클립보드 이용한 데이터 백업, 복원
->- 개발 기간 : 2017.11 ~ 2017.12
->- 개발 환경 : Java, Android Studio, Github
->- 사용 기술 : AES-256, SHA-512, SQLite
->- Google Play : [비번관리](https://play.google.com/store/apps/details?id=kr.znc.app.znpasswordmanager)
+- 개발 기간 : 2017.11 ~ 2017.12
+- 개발 환경 : Java(-> Kotlin), Android Studio, Github
+- 사용 기술 : AES-256, SHA-512, SQLite
+- Google Play : [비번관리](https://play.google.com/store/apps/details?id=kr.znc.app.znpasswordmanager)
 
-<img src="images/z_pm/zpm1.jpg" width="150"/>    <img src="images/z_pm/zpm2.jpg" width="150"/>  <img src="images/z_pm/zpm3.jpg" width="150"/> <img src="images/z_pm/zpm4.jpg" width="150"/> <img src="images/z_pm/zpm5.jpg" width="150"/> <img src="images/z_pm/zpm6.jpg" width="150"/>
+<img src="images/z_pm/zpm1.png" width="150"/>    <img src="images/z_pm/zpm2.png" width="150"/>  <img src="images/z_pm/zpm3.png" width="150"/> <img src="images/z_pm/zpm4.png" width="150"/> <img src="images/z_pm/zpm5.png" width="150"/> <img src="images/z_pm/zpm6.png" width="150"/> <img src="images/z_pm/zpm7.png" width="150"/>
 
 ---
 
