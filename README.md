@@ -18,17 +18,25 @@
 [롯데마트몰](https://play.google.com/store/apps/details?id=com.lottemart.shopping),
 [롯데온](https://play.google.com/store/apps/details?id=com.lotte.ellotte),
 [롯데온](https://play.google.com/store/apps/details?id=com.lottemart.toysrus)
-> - 롯데 커머스 앱 운영
+> - 롯데쇼핑 이커머스앱(롯데온, 롯데백화점몰, 롯데마트몰, 토이저러스) 운영
 > - 기간 : 2021.06 ~ now
 > - 개발 환경 : Kotlin, Android Studio, Gitlab, Jenkins, Jira, Docker, Slack 등
 > - 사용 기술 : Retrofit, Glide 등
 > - 담당 업무 : 운영, 신규 기능 개발 등
->    - 메인 구조 리팩토링
->    - 프리로드 구조 적용
-- Google Play : [롯데온](https://play.google.com/store/apps/details?id=com.lotte),
+>   - 소스 리팩토링 (메인 구조 리팩토링, 뷰바인딩, 컴포즈 적용 등)
+>   - 신규 기능 개발 (광고, 엘스탬프 등)
+>   - 데브옵스 페이지 구축 운영 (Docker, Jenkins, Python, FastAPI, MongoDB 이용)
+>   - 안드로이드 스튜디오 플러그인 개발
+> - Google Play : [롯데온](https://play.google.com/store/apps/details?id=com.lotte),
 [롯데마트몰](https://play.google.com/store/apps/details?id=com.lottemart.shopping),
 [롯데온](https://play.google.com/store/apps/details?id=com.lotte.ellotte),
-[롯데온](https://play.google.com/store/apps/details?id=com.lottemart.toysrus) 
+[롯데온](https://play.google.com/store/apps/details?id=com.lottemart.toysrus)  
+
+<img src="images/lon/lon_00.png" width="150"/>
+<img src="images/lon/lon_01.png" width="150"/>
+<img src="images/lon/lon_02.png" width="150"/>
+<img src="images/lon/lon_03.png" width="150"/>
+<img src="images/lon/lon_04.png" width="150"/>
 
 ---
 
@@ -44,9 +52,14 @@
 >        - 하이브리드 
 >        - 회원가입, 로그인, 장바구니, 주문, 결제 페이지 및 기능 개발
 >        - WebView 인터페이스 연동 개발
->- Google Play : [라스트오더](https://play.google.com/store/apps/details?id=com.myro.lastorder)
+>- Google Play : [라스트오더](https://play.google.com/store/apps/details?id=com.myro.lastorder)  
 
-<img src="images/mr_lao/lao00.jpg" width="150"/> <img src="images/mr_lao/lao01.jpg" width="150"/> <img src="images/mr_lao/lao02.jpg" width="150"/> <img src="images/mr_lao/lao03.jpg" width="150"/> <img src="images/mr_lao/lao04.jpg" width="150"/> <img src="images/mr_lao/lao05.jpg" width="150"/>  
+<img src="images/mr_lao/lao00.jpg" width="150"/>
+<img src="images/mr_lao/lao01.jpg" width="150"/>
+<img src="images/mr_lao/lao02.jpg" width="150"/>
+<img src="images/mr_lao/lao03.jpg" width="150"/>
+<img src="images/mr_lao/lao04.jpg" width="150"/>
+<img src="images/mr_lao/lao05.jpg" width="150"/>
 
 ---
 
@@ -63,7 +76,13 @@
 >    - [라스트오더 K7점포용](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.se)
 >    - [라스트오더 CU점포용](https://play.google.com/store/apps/details?id=kr.co.lastorder.store.cu)
 
-<img src="images/mr_laos/laos00.jpg" width="150"/> <img src="images/mr_laos/laos01.jpg" width="150"/> <img src="images/mr_laos/laos02.jpg" width="150"/> <img src="images/mr_laos/laos03.jpg" width="150"/> <img src="images/mr_laos/laos04.jpg" width="150"/> <img src="images/mr_laos/laos05.jpg" width="150"/> <img src="images/mr_laos/laos06.jpg" width="150"/>    
+<img src="images/mr_laos/laos00.jpg" width="150"/>
+<img src="images/mr_laos/laos01.jpg" width="150"/>
+<img src="images/mr_laos/laos02.jpg" width="150"/>
+<img src="images/mr_laos/laos03.jpg" width="150"/>
+<img src="images/mr_laos/laos04.jpg" width="150"/>
+<img src="images/mr_laos/laos05.jpg" width="150"/>
+<img src="images/mr_laos/laos06.jpg" width="150"/>
 
 ---
 
@@ -77,7 +96,12 @@
 >    - 회원가입, 로그인, 핀패드, 제휴사 가입/로그인, 암호화 모듈, 생체 인식 기능 등
 >- Google Play : [패시키](https://play.google.com/store/apps/details?id=com.rowem.passikey.app)
 
-<img src="images/ro_psk/psk1.jpg" width="150"/>    <img src="images/ro_psk/psk2.jpg" width="150"/>  <img src="images/ro_psk/psk3.jpg" width="150"/> <img src="images/ro_psk/psk4.jpg" width="150"/> <img src="images/ro_psk/psk5.jpg" width="150"/> <img src="images/ro_psk/psk6.jpg" width="150"/>
+<img src="images/ro_psk/psk1.jpg" width="150"/>
+<img src="images/ro_psk/psk2.jpg" width="150"/>
+<img src="images/ro_psk/psk3.jpg" width="150"/>
+<img src="images/ro_psk/psk4.jpg" width="150"/>
+<img src="images/ro_psk/psk5.jpg" width="150"/>
+<img src="images/ro_psk/psk6.jpg" width="150"/>
 
 ---
 
@@ -90,7 +114,12 @@
 >    - 소셜로그인, 랭킹, 포인트, 광고(애드몹, 탭조이), 인앱 결제 등
 >- Google Play : [스타패스](https://play.google.com/store/apps/details?id=inc.rowem.passicon)
 
-<img src="images/ro_sp/rsp1.jpg" width="150"/>    <img src="images/ro_sp/rsp2.jpg" width="150"/>  <img src="images/ro_sp/rsp3.jpg" width="150"/> <img src="images/ro_sp/rsp4.jpg" width="150"/> <img src="images/ro_sp/rsp5.jpg" width="150"/> <img src="images/ro_sp/rsp6.jpg" width="150"/>
+<img src="images/ro_sp/rsp1.jpg" width="150"/>
+<img src="images/ro_sp/rsp2.jpg" width="150"/>
+<img src="images/ro_sp/rsp3.jpg" width="150"/>
+<img src="images/ro_sp/rsp4.jpg" width="150"/>
+<img src="images/ro_sp/rsp5.jpg" width="150"/>
+<img src="images/ro_sp/rsp6.jpg" width="150"/>
 
 ---
 
@@ -104,7 +133,11 @@
 >    - 비콘 연동 (로그인, 배터리), 궤적 데이터 전송, 네비게이션 외 메뉴 기능 개발
 >- Google Play : [네트워크OnS](https://play.google.com/store/apps/details?id=com.eksys.networkons)
 
-<img src="images/ek_ons/enos1.jpg" width="150"/>    <img src="images/ek_ons/enos2.jpg" width="150"/>  <img src="images/ek_ons/enos3.jpg" width="150"/> <img src="images/ek_ons/enos4.jpg" width="150"/> <img src="images/ek_ons/enos5.jpg" width="150"/>
+<img src="images/ek_ons/enos1.jpg" width="150"/>
+<img src="images/ek_ons/enos2.jpg" width="150"/>
+<img src="images/ek_ons/enos3.jpg" width="150"/>
+<img src="images/ek_ons/enos4.jpg" width="150"/>
+<img src="images/ek_ons/enos5.jpg" width="150"/>
 
 ---
 
@@ -118,7 +151,10 @@
 >- 담당 업무 : 서비스 유지 보수
 >    - 신규 비콘 연동, 서비스 안정화
 
-<img src="images/lo_o2o/lbm1.jpg" width="150"/>    <img src="images/lo_o2o/lbm2.jpg" width="150"/>  <img src="images/lo_o2o/lbm3.jpg" width="150"/> <img src="images/lo_o2o/lbm4.jpg" width="150"/>
+<img src="images/lo_o2o/lbm1.jpg" width="150"/>
+<img src="images/lo_o2o/lbm2.jpg" width="150"/>
+<img src="images/lo_o2o/lbm3.jpg" width="150"/>
+<img src="images/lo_o2o/lbm4.jpg" width="150"/>
 
 ---
 
@@ -147,7 +183,9 @@
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- Google Play : [소리타일](https://play.google.com/store/apps/details?id=kr.znc.app.qstile.volume)
 
-<img src="images/z_vt/zvt_00.jpg" width="150"/>    <img src="images/z_vt/zvt_01.jpg" width="150"/>  <img src="images/z_vt/zvt_02.jpg" width="150"/>
+<img src="images/z_vt/zvt_00.jpg" width="150"/>
+<img src="images/z_vt/zvt_01.jpg" width="150"/>
+<img src="images/z_vt/zvt_02.jpg" width="150"/>
 
 ---
 
@@ -160,7 +198,11 @@
 >- 개발 환경 : Kotlin, Android Studio, Github
 >- Google Play :[노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
 
-<img src="images/z_sn/zsn1.jpg" width="150"/>   <img src="images/z_sn/zsn2.jpg" width="150"/>  <img src="images/z_sn/zsn3.jpg" width="150"/> <img src="images/z_sn/zsn4.jpg" width="150"/> <img src="images/z_sn/zsn5.jpg" width="150"/>
+<img src="images/z_sn/zsn1.jpg" width="150"/>
+<img src="images/z_sn/zsn2.jpg" width="150"/>
+<img src="images/z_sn/zsn3.jpg" width="150"/>
+<img src="images/z_sn/zsn4.jpg" width="150"/>
+<img src="images/z_sn/zsn5.jpg" width="150"/>
 
 ---
 
@@ -177,7 +219,31 @@
 - 사용 기술 : AES-256, SHA-512, SQLite
 - Google Play : [비번관리](https://play.google.com/store/apps/details?id=kr.znc.app.znpasswordmanager)
 
-<img src="images/z_pm/zpm1.png" width="150"/>    <img src="images/z_pm/zpm2.png" width="150"/>  <img src="images/z_pm/zpm3.png" width="150"/> <img src="images/z_pm/zpm4.png" width="150"/> <img src="images/z_pm/zpm5.png" width="150"/> <img src="images/z_pm/zpm6.png" width="150"/> <img src="images/z_pm/zpm7.png" width="150"/>
+<img src="images/z_pm/zpm1.png" width="150"/>
+<img src="images/z_pm/zpm2.png" width="150"/>
+<img src="images/z_pm/zpm3.png" width="150"/>
+<img src="images/z_pm/zpm4.png" width="150"/>
+<img src="images/z_pm/zpm5.png" width="150"/>
+<img src="images/z_pm/zpm6.png" width="150"/>
+<img src="images/z_pm/zpm7.png" width="150"/>
+
+---
+
+> 웹갈피 - 오픈 준비 중
+- 웹 북마크 관리 애플리케이션
+>    - 간단한 북마크 저장과 검색을 위해 개발
+>    - 트리 구조 (폴더와 북마크 아이템으로 구성)
+>    - Only Compose
+>    - 현재 내보내기/가져오기 기능 구현 중
+- 개발 기간 : 2023.01 ~
+- 개발 환경 : Kotlin, Android Studio, Github
+- 사용 기술 : Hilt, Navigation Compose, Room,
+
+<img src="images/z_wgp/wgp_00.png" width="150"/>
+<img src="images/z_wgp/wgp_01.png" width="150"/>
+<img src="images/z_wgp/wgp_02.png" width="150"/>
+<img src="images/z_wgp/wgp_03.png" width="150"/>
+<img src="images/z_wgp/wgp_04.png" width="150"/>
 
 ---
 
