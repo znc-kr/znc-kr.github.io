@@ -177,32 +177,21 @@
 
 ## 개인 프로젝트
 
-> [소리타일](https://play.google.com/store/apps/details?id=kr.znc.app.qstile.volume)
->- Quick Settings(알람패널)에 볼륨 설정 기능 오픈하는 타일 추가
->- 개발 기간 : 2021.01 ~ 2021.01
->- 개발 환경 : Kotlin, Android Studio, Github
->- Google Play : [소리타일](https://play.google.com/store/apps/details?id=kr.znc.app.qstile.volume)
+> 웹갈피 - 오픈 준비 중
+- 웹 북마크 관리 애플리케이션
+>    - 간단한 북마크 저장과 검색을 위해 개발
+>    - 트리 구조 (폴더와 북마크 아이템으로 구성)
+>    - Only Compose
+>    - 현재 내보내기/가져오기 기능 구현 중
+- 개발 기간 : 2023.01 ~
+- 개발 환경 : Kotlin, Android Studio, Github
+- 사용 기술 : Hilt, Navigation Compose, Room,
 
-<img src="images/z_vt/zvt_00.jpg" width="150"/>
-<img src="images/z_vt/zvt_01.jpg" width="150"/>
-<img src="images/z_vt/zvt_02.jpg" width="150"/>
-
----
-
-> [노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
->- 노티 영역에 작성한 메모 노출
->    - 제목, 내용의 간단한 메모를 작성하여 알림 영역에 노출
->    - 알림 영역에서 수정, 삭제, 공유 기능 지원
->    - 복원 기능 (폰재부팅, 앱종료 등) 
->- 개발 기간 : 2019.04 ~ 2019.04
->- 개발 환경 : Kotlin, Android Studio, Github
->- Google Play :[노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
-
-<img src="images/z_sn/zsn1.jpg" width="150"/>
-<img src="images/z_sn/zsn2.jpg" width="150"/>
-<img src="images/z_sn/zsn3.jpg" width="150"/>
-<img src="images/z_sn/zsn4.jpg" width="150"/>
-<img src="images/z_sn/zsn5.jpg" width="150"/>
+<img src="images/z_wgp/wgp_00.png" width="150"/>
+<img src="images/z_wgp/wgp_01.png" width="150"/>
+<img src="images/z_wgp/wgp_02.png" width="150"/>
+<img src="images/z_wgp/wgp_03.png" width="150"/>
+<img src="images/z_wgp/wgp_04.png" width="150"/>
 
 ---
 
@@ -221,7 +210,6 @@
 
 <img src="images/z_pm/zpm1.png" width="150"/>
 <img src="images/z_pm/zpm2.png" width="150"/>
-<img src="images/z_pm/zpm3.png" width="150"/>
 <img src="images/z_pm/zpm4.png" width="150"/>
 <img src="images/z_pm/zpm5.png" width="150"/>
 <img src="images/z_pm/zpm6.png" width="150"/>
@@ -229,21 +217,32 @@
 
 ---
 
-> 웹갈피 - 오픈 준비 중
-- 웹 북마크 관리 애플리케이션
->    - 간단한 북마크 저장과 검색을 위해 개발
->    - 트리 구조 (폴더와 북마크 아이템으로 구성)
->    - Only Compose
->    - 현재 내보내기/가져오기 기능 구현 중
-- 개발 기간 : 2023.01 ~
-- 개발 환경 : Kotlin, Android Studio, Github
-- 사용 기술 : Hilt, Navigation Compose, Room,
+> [노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
+>- 노티 영역에 작성한 메모 노출
+   >    - 제목, 내용의 간단한 메모를 작성하여 알림 영역에 노출
+>    - 알림 영역에서 수정, 삭제, 공유 기능 지원
+>    - 복원 기능 (폰재부팅, 앱종료 등)
+>- 개발 기간 : 2019.04 ~ 2019.04
+>- 개발 환경 : Kotlin, Android Studio, Github
+>- Google Play :[노티메모](https://play.google.com/store/apps/details?id=kr.znc.app.sendnoti)
 
-<img src="images/z_wgp/wgp_00.png" width="150"/>
-<img src="images/z_wgp/wgp_01.png" width="150"/>
-<img src="images/z_wgp/wgp_02.png" width="150"/>
-<img src="images/z_wgp/wgp_03.png" width="150"/>
-<img src="images/z_wgp/wgp_04.png" width="150"/>
+<img src="images/z_sn/zsn1.jpg" width="150"/>
+<img src="images/z_sn/zsn2.jpg" width="150"/>
+<img src="images/z_sn/zsn3.jpg" width="150"/>
+<img src="images/z_sn/zsn4.jpg" width="150"/>
+<img src="images/z_sn/zsn5.jpg" width="150"/>
+
+---
+
+> [소리타일](https://play.google.com/store/apps/details?id=kr.znc.app.qstile.volume)
+>- Quick Settings(알람패널)에 볼륨 설정 기능 오픈하는 타일 추가
+>- 개발 기간 : 2021.01 ~ 2021.01
+>- 개발 환경 : Kotlin, Android Studio, Github
+>- Google Play : [소리타일](https://play.google.com/store/apps/details?id=kr.znc.app.qstile.volume)
+
+<img src="images/z_vt/zvt_00.jpg" width="150"/>
+<img src="images/z_vt/zvt_01.jpg" width="150"/>
+<img src="images/z_vt/zvt_02.jpg" width="150"/>
 
 ---
 
