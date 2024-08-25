@@ -21,7 +21,7 @@
 > - 롯데쇼핑 이커머스앱(롯데온, 롯데백화점몰, 롯데마트몰, 토이저러스) 운영
 > - 기간 : 2021.06 ~ now
 > - 개발 환경 : Kotlin, Android Studio, Gitlab, Jenkins, Jira, Docker, Slack 등
-> - 사용 기술 : Retrofit, Glide 등
+> - 사용 기술 : Retrofit, Glide, Room, WorkManager, Paging3, Coroutine, Flow 등
 > - 담당 업무 : 운영, 신규 기능 개발 등
 >   - 소스 리팩토링 (메인 구조 리팩토링, 뷰바인딩, 컴포즈 적용 등)
 >   - 신규 기능 개발 (광고, 엘스탬프 등)
@@ -45,7 +45,7 @@
 >- 마감할인 쇼핑몰 사용자 애플리케이션
 >- 개발 기간 : 2020.03 ~ now
 >- 개발 환경 : Kotlin, Android Studio, Github
->- 사용 기술 : Retrofit, Glide
+>- 사용 기술 : Retrofit, Glide, Coroutine
 >- 담당 업무 : 기존 앱 운영, 신규 앱 개발,운영
 >    - 기존 앱 유지보수 (2020.03 ~ 2020.10)
 >    - 신규 앱 개발, 운영 (2020.08~)
@@ -182,10 +182,9 @@
 >    - 간단한 북마크 저장과 검색을 위해 개발
 >    - 트리 구조 (폴더와 북마크 아이템으로 구성)
 >    - Only Compose
->    - 현재 내보내기/가져오기 기능 구현 중
 - 개발 기간 : 2023.01 ~
 - 개발 환경 : Kotlin, Android Studio, Github
-- 사용 기술 : Hilt, Navigation Compose, Room,
+- 사용 기술 : Hilt, Compose(Navigation), Room
 
 <img src="images/z_wgp/wgp_00.png" width="150"/>
 <img src="images/z_wgp/wgp_01.png" width="150"/>
