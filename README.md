@@ -46,22 +46,22 @@
 >     - 프리로드 : 무중단 서비스, 서버 장애 의존성이 감소, 성능 개선
 >     - 엘스탬프 : v1(하이브리드)/v2(네이티브) 개발 
 >     - 서브탭, 코치마크, 다수 모듈 개발
-> - 신규 기술 도입
->     - Coroutine
->       - RxJava -> Coroutine
->     - Compose
->       - 엘스탬프, 서브헤더, 마이롯데, 검색 페이지 등
->     - WorkManager
->       - 비동기 데이터 다운로드
->     - CameraX
->       - 카드 인식 기능 개선
->   - 앱 접근성 적용
->   - 안드로이드 스튜디오 플러그인 개발
->     - 앱 삭제, 데이터 삭제 기능
->   - 데브옵스 페이지 구축 운영
->     - Docker, Jenkins, Python, FastAPI, MongoDB 이용
->     - 모듈 찾기 기능
->     - 빌드, 배포, 알림 자동화
+>   - 신규 기술 도입
+>       - Coroutine
+>         - RxJava -> Coroutine
+>       - Compose
+>         - 엘스탬프, 서브헤더, 마이롯데, 검색 페이지 등
+>       - WorkManager
+>         - 비동기 데이터 다운로드
+>       - CameraX
+>         - 카드 인식 기능 개선
+>     - 앱 접근성 적용
+>     - 안드로이드 스튜디오 플러그인 개발
+>       - 앱 삭제, 데이터 삭제 기능
+>     - 데브옵스 페이지 구축 운영
+>       - Docker, Jenkins, Python, FastAPI, MongoDB 이용
+>       - 모듈 찾기 기능
+>       - 빌드, 배포, 알림 자동화
 > - Google Play : [롯데온](https://play.google.com/store/apps/details?id=com.lotte),
 [롯데마트몰](https://play.google.com/store/apps/details?id=com.lottemart.shopping),
 [롯데백화점몰](https://play.google.com/store/apps/details?id=com.lotte.ellotte),
