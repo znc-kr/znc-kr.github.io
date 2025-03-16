@@ -1,7 +1,6 @@
 
 ### 지상훈 - 포트폴리오
-- Email: zn_mail@naver.com
-- GitHub: github.com/znc-kr
+- Email: <zn_mail@naver.com>
 
 ---
 - <img src="images/lockup.svg">
