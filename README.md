@@ -12,11 +12,12 @@
 - Skill
   - Kotlin, Java, Python 
   - AAC
-  - Jetpack Compose
+  - Jetpack
+    - Compose, WorkManager, Camera, Navigation 
   - Coroutine, Flow
   - Hilt, Dagger
   - MVC, MVVM, MVP, MVI
-  - Retrofit, OkHttp
+  - Retrofit, OkHttp, Volley
   - SQLite, Room, MongoDB
   - Firebase
   - Flutter, Dart
@@ -46,9 +47,16 @@
 >     - 프리로드 : 무중단 서비스, 서버 장애 의존성이 감소, 성능 개선
 >     - 엘스탬프 : v1(하이브리드)/v2(네이티브) 개발 
 >     - 서브탭, 코치마크, 다수 모듈 개발
->   - 신규 기술 도입
->     - Compose 적용 (엘스탬프, 서브헤더, 마이롯데, 검색 페이지 등)
->   - 접근성 적용
+> - 신규 기술 도입
+>     - Coroutine
+>       - RxJava -> Coroutine
+>     - Compose
+>       - 엘스탬프, 서브헤더, 마이롯데, 검색 페이지 등
+>     - WorkManager
+>       - 비동기 데이터 다운로드
+>     - CameraX
+>       - 카드 인식 기능 개선
+>   - 앱 접근성 적용
 >   - 안드로이드 스튜디오 플러그인 개발
 >     - 앱 삭제, 데이터 삭제 기능
 >   - 데브옵스 페이지 구축 운영
